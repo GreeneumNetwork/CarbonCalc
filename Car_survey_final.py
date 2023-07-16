@@ -8,13 +8,13 @@ def take_survey():
 
     # Questions
     questions = [
-        "1. What is the average fuel efficiency of your vehicle(s)?",
-        "2. Do you have any hybrid or electric vehicle options? If so, what is their range and charging infrastructure?",
-        "3. How do you incorporate renewable energy sources in your daily life?",
-        "4. Are you aware of your carbon footprint or greenhouse gas emissions data?",
-        "5. Have you made any commitments to reducing your overall carbon emissions in the coming years?",
-        "6. Are there any initiatives or incentives you've considered to choose more environmentally friendly alternatives?",
-        "7. Do you have an estimate of your personal carbon footprint?"
+        "1. How many cars are currently being used in your operations, and how frequently are these vehicles being used?",
+        "2. How much fuel, in terms of gallons, is consumed by your total number of vehicles on an average week?",
+        "3. What is the average distance (in miles) typically traveled by your vehicles on an average week?",
+        "4. What policies or initiatives do you implement to reduce carbon emission output from your vehicle(s)?",
+        "5. Are you operating any hybrid or electric vehicles? If so, what percentage of total cars do they represent?",
+        "6. What percentage of your organization's total carbon emissions is attributed to cars?",
+        "7. What is your organization's readiness to install or increase the number of electric vehicle charging stations at your facilities?"
     ]
 
     # Collect responses
